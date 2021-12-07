@@ -1,5 +1,7 @@
 ---
 layout: post
+hidden:
+  - related_posts
 title: New starters
 permalink: /new-starters/
 ---

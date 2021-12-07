@@ -1,5 +1,7 @@
 ---
 layout: post
+hidden:
+  - related_posts
 title: Getting started MacOS X
 permalink: /developers/getting-started-macos/
 ---
@@ -49,3 +51,4 @@ brew install node awscli aws-cdk mysql@5.7
 ```shell
 brew install --casks docker ngrok postman
 ```
+

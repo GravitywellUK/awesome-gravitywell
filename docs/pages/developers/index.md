@@ -1,5 +1,7 @@
 ---
 layout: post
+hidden:
+  - related_posts
 title: Developers
 permalink: /developers/
 ---
