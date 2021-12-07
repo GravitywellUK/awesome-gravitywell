@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: New starters
 permalink: /new-starters/
 ---

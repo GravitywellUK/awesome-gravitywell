@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Getting started MacOS X
 permalink: /getting-started-macos/
 ---

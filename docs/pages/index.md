@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: articles
 title: Gravitywell AWESOME
 permalink: /
 ---
