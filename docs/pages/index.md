@@ -1,13 +1,9 @@
 ---
 layout: home
 title: Gravitywell AWESOME
-heading: 'Gravitywell AWESOME'
-subheading: 'Change me'
+heading: 'Gravitywell documentation'
+subheading: 'Documentation to help you'
 permalink: /
 ---
 
-
-
-## Contents
-
-- [New starters](/new-starters)
+{{ content }}
