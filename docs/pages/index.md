@@ -5,5 +5,3 @@ heading: 'Gravitywell documentation'
 subheading: 'Documentation to help you'
 permalink: /
 ---
-
-{{ content }}
