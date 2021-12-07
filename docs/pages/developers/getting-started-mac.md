@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Getting started MacOS X
+heading: Getting started MacOS X
 permalink: /developers/getting-started-macos/
 ---
 
