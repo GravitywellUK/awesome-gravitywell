@@ -2,10 +2,6 @@
 layout: post
 title: Getting started MacOS X
 permalink: /developers/getting-started-macos/
-tags:
-  - Developers
-  - Getting started
-  - MacOS X
 ---
 
 WOW, you have a Mac...

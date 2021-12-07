@@ -22,8 +22,11 @@ title: Gravitywell AWESOME
 description: Informative articles containing Gravitywell specific awesome documentation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+email: hello@gravitywell.co.uk
+author: Gravitywell
 twitter_username: gravitywelluk
 github_username:  gravitywelluk
+copyright: "(cleft) {currentYear} {author}"
 
 # Build settings
 theme: jekyll-theme-yat
