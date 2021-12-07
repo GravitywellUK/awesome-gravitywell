@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Gravitywell AWESOME
 description: Informative articles containing Gravitywell specific awesome documentation.
+markdown: kramdown
+highlighter: rouge

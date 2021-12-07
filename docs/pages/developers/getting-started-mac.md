@@ -2,8 +2,6 @@
 layout: page
 title: Getting started MacOS X
 permalink: /getting-started-macos/
-redirect_from:
- - /docs/getting-started-macos/
 ---
 
 ## CSR Utils
