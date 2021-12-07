@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Gravitywell AWESOME
 heading: 'Gravitywell documentation'
 subheading: 'Documentation to help you'
