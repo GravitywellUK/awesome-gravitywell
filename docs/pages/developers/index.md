@@ -8,4 +8,4 @@ tags:
 
 ## Which operating system are you using?
 
-- [MacOS X](/developers/getting-started-mac/)
+- [MacOS X](/developers/getting-started-macos/)
