@@ -1,8 +1,5 @@
 ---
-layout: post
-hidden:
-  - navigator
-  - related_posts
+layout: about
 title: Getting started MacOS X
 permalink: /developers/getting-started-macos/
 ---
