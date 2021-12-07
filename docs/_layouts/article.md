@@ -1,0 +1,14 @@
+---
+layout: framework
+sidebar: article-menu
+---
+
+<div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
+
+  {{ content }}
+
+  {% include views/pagination.html %}
+</div>
