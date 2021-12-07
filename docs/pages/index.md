@@ -1,8 +1,10 @@
 ---
-layout: articles
+layout: home
 title: Gravitywell AWESOME
 permalink: /
 ---
+
+
 
 ## Contents
 
