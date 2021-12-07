@@ -16,7 +16,7 @@ Below are some useful directives to help you get up and running quickly.
 
 ## 1. CSR Utils
 
-The following is required for MacOS Mojave - MacOS (current). This will disable the System Integrity Protection, which will stop issues arising when using or installing some development specific software.
+The following is required for MacOS Mojave - MacOS (current). This will disable the System Integrity Protection, which will stop issues arising when using or installing development specific software.
 
 1. Turn off Mac, turn it back on and when you see the Apple logo press and hold `CMD + R` to enter into Recovery Mode.
 2. Go to Terminal and enter `csrutil disable`.
