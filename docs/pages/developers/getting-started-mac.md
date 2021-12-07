@@ -1,6 +1,7 @@
 ---
 layout: post
 hidden:
+  - navigator
   - related_posts
 title: Getting started MacOS X
 permalink: /developers/getting-started-macos/
