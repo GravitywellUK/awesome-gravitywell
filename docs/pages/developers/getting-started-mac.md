@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Getting started MacOS X
-permalink: /getting-started-macos/
+permalink: /developers/getting-started-macos/
+tags:
+  - Developers
+  - Getting started
+  - MacOS X
 ---
 
 ## CSR Utils
