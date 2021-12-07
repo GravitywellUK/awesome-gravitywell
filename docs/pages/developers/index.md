@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Developers
 heading: Developers
 permalink: /developers/

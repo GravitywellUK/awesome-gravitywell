@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: New starters
 heading: New starters
 permalink: /new-starters/
