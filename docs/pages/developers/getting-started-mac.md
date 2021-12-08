@@ -2,6 +2,7 @@
 layout: article
 title: Getting started MaxOS
 subtitle: Getting started MacOS guide for developers
+permalink: /developers/getting-started-macos/
 previous:
   title: Developers
   url: /developers/

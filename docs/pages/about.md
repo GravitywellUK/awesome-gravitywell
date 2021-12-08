@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About
+permalink: /about/
 ---
 
 These documents exist to help others, whether you are internal staff or someone who has stumbled across this site, to better their knowledge, help them get setup up in their role and to maintain the knowledge flow for others.
