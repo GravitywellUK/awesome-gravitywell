@@ -13,8 +13,8 @@
   <div class="wrapper">
     <div class="site-header-inner">
       {%- assign default_paths = site.pages | where: "dir", "/" | map: "path" -%}
-      {%- include functions.html func='get_value' default=true -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- include functions.html func='log' level='debug' msg=page_paths -%}
 
       <span class="site-brand">
         {%- include views/site-brand.html -%}
