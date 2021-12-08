@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Getting started MaxOS
-subheading: Getting started MacOS guide for developers
+subtitle: Getting started MacOS guide for developers
 permalink: /developers/getting-started-macos/
 previous:
   title: Developers

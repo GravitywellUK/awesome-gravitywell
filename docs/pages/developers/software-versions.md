@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Software versions
-subheading: Software versions for developers
+subtitle: Software versions for developers
 permalink: /developers/software-versions/
 previous:
   title: Developers

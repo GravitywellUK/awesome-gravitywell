@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Getting started continued
-subheading: Getting started continued guide for developers
+subtitle: Getting started continued guide for developers
 permalink: /developers/getting-started-continued/
 previous:
   title: Developers
