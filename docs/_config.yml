@@ -43,8 +43,8 @@ plugins:
 
 # Header nav
 header_pages:
-  - index.md
-  - about.md
+  - pages/index.md
+  - pages/about.md
 
 # If you want more debug log, you can set true
 # debug: false
