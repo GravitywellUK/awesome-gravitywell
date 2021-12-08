@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Getting started Linux
+subheading: Getting started Linux guide for developers
 permalink: /developers/getting-started-linux/
 previous:
   title: Developers

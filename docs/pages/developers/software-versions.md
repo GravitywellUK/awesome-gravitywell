@@ -1,7 +1,11 @@
 ---
 layout: article
 title: Software versions
+subheading: Software versions for developers
 permalink: /developers/software-versions/
+previous:
+  title: Developers
+  url: /developers/
 ---
 
 In order to mitigate unforeseen issues during development (especially offline development), we strongly advise that you have the following software versions.

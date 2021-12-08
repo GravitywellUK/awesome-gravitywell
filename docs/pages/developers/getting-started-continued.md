@@ -1,7 +1,11 @@
 ---
 layout: article
 title: Getting started continued
+subheading: Getting started continued guide for developers
 permalink: /developers/getting-started-continued/
+previous:
+  title: Developers
+  url: /developers/
 next:
   title: Software versions
   url: /developers/software-versions/
@@ -40,7 +44,7 @@ Host github.com
 
 You should now be able to clone all the repositories that you have access to.
 
-## 2. Nodejs (LTS)
+## 2. Nodejs (LTS) & packages
 
 At this point, you should have the latest version of NodeJs installed, however, for projects in production we tend to use NodeJs's latest LTS (Long Term Support) version. The simplest way of doing this is leveraging a package called `n`, which manages your local NodeJs versions.
 
@@ -89,3 +93,47 @@ $ n
   ο node/14.17.3
 
 Use up/down arrow keys to select a version, return key to install, d to delete, q to quit
+```
+
+### Recommended global packages
+
+Once you have the correct [software versions](/developers/software-versions/) for `NodeJs` and `Yarn`, we recommend installing the follow global packages, using the command below:
+
+- AWS Amplify CLI
+- AWS CDK
+- eslint
+- lerna
+- React Native
+- Sass
+- Typescript
+
+```shell
+$ yarn global add @aws-amplify/cli aws-cdk eslint lerna react-native sass tsc
+```
+
+## IDE
+
+For an IDE, you are welcome to use any IDE you wish, however, if you are unsure which one to pick, we recommend going with one which is broadly used across the development team. Support is at hand if your IDE becomes feral or you become stuck with it. Gravitywell tends to lean towards `VSCode`.
+
+### VSCode
+
+Microsoft's [VSCode](https://code.visualstudio.com/) is the a popular choice for most developers at Gravitywell. Checkout the recommended pluggins to install below:
+
+- Auto Close Tag
+- Auto Import
+- Better Comments
+- Code Runner
+- Code Spell Checker
+- DotENV
+- ESLint
+- Import Cost
+- Markdown All in One
+- MJML
+- npm Intellisense
+- Path Intellisense
+- Sass
+- TypeScript Extension Pack
+- vscode-styled-components
+- XML Tools
+- YAML
+- ZipFS - a zip file system

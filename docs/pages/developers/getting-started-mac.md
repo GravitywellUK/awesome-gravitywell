@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Getting started MaxOS
+subheading: Getting started MacOS guide for developers
 permalink: /developers/getting-started-macos/
 previous:
   title: Developers
@@ -12,7 +13,7 @@ next:
 
 WOW, you have a Mac...
 
-![Niccce](https://media.giphy.com/media/pCO5tKdP22RC8/giphy.gif)
+![South Park "Niccce" quote](https://media.giphy.com/media/pCO5tKdP22RC8/giphy.gif)
 
 Ideally you want to make sure that your Mac is running the latest MacOS before continuing. Below are some useful directives to help you get up and running quickly.
 

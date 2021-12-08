@@ -1,6 +1,6 @@
-# awesome-gravitywell
+# gravitywell.github.io
 
-Informative articles containing Gravitywell specific awesome documentation.
+GitHub pages for informative articles containing Gravitywell specific awesome documentation.
 
 ## Development
 
