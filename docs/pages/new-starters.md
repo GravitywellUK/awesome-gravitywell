@@ -1,7 +1,6 @@
 ---
 layout: article
 title: New starters
-permalink: /new-starters/
 ---
 
 This section outlines core information for all new starters before linking of into specific areas based on your role.
