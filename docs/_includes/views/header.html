@@ -14,6 +14,7 @@
     <div class="site-header-inner">
       {%- assign default_paths = site.pages | where: "dir", "/" | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {{ page_paths }}
       {%- include functions.html func='log' level='debug' msg=page_paths -%}
 
       <span class="site-brand">
