@@ -2,13 +2,16 @@
 layout: article
 title: Getting started continued
 permalink: /developers/getting-started-continued/
+next:
+  title: Software versions
+  url: /developers/software-versions/
 ---
 
 At this point, you should have already followed the Getting Started guide for your specific device. Now we are going to go through the generic guide for getting setup.
 
-## GitHub
+## 1. GitHub
 
-Assuming that you have a GitHub account, follow the instructions bellow to authorize your device with your GitHub account.
+Assuming that you have a GitHub account, follow the instructions below to authorize your device with your GitHub account.
 
 Open Terminal and perform the following commands,
 
@@ -16,7 +19,7 @@ Open Terminal and perform the following commands,
 $ cd ~/.ssh
 $ mkdir github
 $ cd ./github
-$ ssh-keygen -t ed25519 -C "luke.baker@live.com"
+$ ssh-keygen -t ed25519 -C "joe.bloggs@example.com"
 ```
 
 When prompted, provide the following path to place the generated file(s) `~/.ssh/github/id_ed25519` (or equivalent). You should now have two files within the directory.
@@ -36,3 +39,53 @@ Host github.com
 ```
 
 You should now be able to clone all the repositories that you have access to.
+
+## 2. Nodejs (LTS)
+
+At this point, you should have the latest version of NodeJs installed, however, for projects in production we tend to use NodeJs's latest LTS (Long Term Support) version. The simplest way of doing this is leveraging a package called `n`, which manages your local NodeJs versions.
+
+We recommend using `Yarn`, which is a dependency/package manager for NodeJs. If you are using MacOS or Linux and you have followed our operating system specific guides regarding `Homebrew`, you should already have this installed.
+
+### `n` dependency manager
+
+To install `n` run the following command,
+
+```shell
+$ yarn global add n
+```
+
+### Managing NodeJs versions
+
+Using `n` above, we can manage your local NodeJs version. Check our recommended [software version](/developers/software-versions/#h-nodejs) for NodeJs to install before running continuing below,
+
+To install a new version, run the following command,
+
+```shell
+$ n 14.17.3
+```
+
+You can also view and change NodeJs version interactively using the following command,
+
+```shell
+$ n
+
+    node/4.8.3
+    node/6.0.0
+    node/8.10.0
+    node/8.11.3
+    node/8.12.0
+    node/8.15.1
+    node/9.4.0
+    node/9.11.1
+    node/9.11.2
+    node/10.14.1
+    node/10.16.3
+    node/11.10.0
+    node/11.10.1
+    node/12.6.0
+    node/12.13.1
+    node/12.21.0
+    node/14.15.5
+  ο node/14.17.3
+
+Use up/down arrow keys to select a version, return key to install, d to delete, q to quit

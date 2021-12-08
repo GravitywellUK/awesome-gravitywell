@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gravitywell AWESOME
-description: Informative articles containing Gravitywell specific awesome documentation.
+title: Gravitywell Docs
+description: Informative articles containing Gravitywell specific documentation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 email: hello@gravitywell.co.uk
 author: Gravitywell
 twitter_username: gravitywelluk
 github_username:  gravitywelluk
-copyright: "(cleft) {currentYear} {author}"
+copyright: '(cleft) {currentYear} [{author}]("https://www.gravitywell.co.uk/")'
 
 # Build settings
 theme: jekyll-theme-yat
